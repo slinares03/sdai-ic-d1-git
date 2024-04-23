@@ -20,3 +20,12 @@ This lab introduces you to how developers use git in their normal workflows.
 4. [ ] Run `git commit -m "Created index.html"`.
 5. [ ] Add a `h1` header with the text "Hello World".
 6. [ ] run `git add .` to stage the work, and the commit it using `git commit -m "Added main header"`.
+
+---
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-git/tree/solution)
