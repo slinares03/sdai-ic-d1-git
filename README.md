@@ -20,6 +20,7 @@ This lab introduces you to how developers use git in their normal workflows.
 4. [ ] Run `git commit -m "Created index.html"`.
 5. [ ] Add a `h1` header with the text "Hello World".
 6. [ ] run `git add .` to stage the work, and the commit it using `git commit -m "Added main header"`.
+7. [ ] run `git push origin main` to push your work to your repository on github.
 
 ---
 
