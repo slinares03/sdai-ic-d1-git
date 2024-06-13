@@ -27,7 +27,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 4. [ ] Run `git commit -m "Created index.html"`.
 5. [ ] Add a `h1` header with the text "Hello World".
 6. [ ] run `git add .` to stage the work, and the commit it using `git commit -m "Added main header"`.
-7. [ ] run `git push origin main` to push your work to your repository on github. Refreash the page and you should now see your `index.html` file with your additions on the page.
+7. [ ] run `git push origin main` to push your work to your repository on github. Refresh the page and you should now see your `index.html` file with your additions on the page.
 
 ---
 
