@@ -7,8 +7,8 @@ This lab introduces you to how developers use git in their normal workflows.
 
 ## Developer Objectives 📋
 1. **Boilerplate Generation:** Use shortcuts to generate HTML boilerplate.
-2. **Review Basic HTML Tags** Insert header tags
-3. **Practice Basic Git Commands** commit your work with the `add` and `commit` commands
+2. **Review Basic HTML Tags:** Insert header tags
+3. **Practice Basic Git Commands:** Commit your work with the `add` and `commit` commands
 
 ---
 
